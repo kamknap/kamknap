@@ -1,5 +1,5 @@
 ## Hi there 👋
-Aspiring Software Tester 📊 Proficient in Java, C#, and Python, I am currently a third-year Computer Science student 🎓 dedicated to mastering software development and testing. For the past six months, I have been diligently training in the field of software testing, with a primary focus on web application testing, both manual and automated. Passionate about delivering reliable, high-quality solutions, I constantly seek opportunities to expand my knowledge and expertise in IT, particularly in the realm of software testing.
+Aspiring Software Tester 📊 Proficient in JavaScript, Java, and Python, I am currently a third-year Computer Science student 🎓 dedicated to mastering software testing. For the past six months, I have been diligently training in the field of software testing, with a primary focus on web application testing, both manual and automated. Passionate about delivering reliable, high-quality solutions, I constantly seek opportunities to expand my knowledge and expertise in IT, particularly in the realm of software testing.
 <!--
 **kamknap/kamknap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
