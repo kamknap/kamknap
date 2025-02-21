@@ -7,14 +7,15 @@ I enjoy ensuring software works as expected and beyond, finding edge cases, and 
 
 🔧 Tech Stack:
 - JavaScript
+- 
 
 ### Here, you'll find my testing projects, from manual test cases to automation scripts. Let's connect and build better software together! 🚀
-📌 Test Plan (Test Documentation): [Test-Plan](https://github.com/kamknap/Test-Plan)
+📌 [Test Plan (Test Documentation)](https://github.com/kamknap/Test-Plan)
 
-📝 Manual Testing (Test Cases, Bug Reports):
+📝 [Manual Testing (Test Cases, Bug Reports)](https://github.com/kamknap/Manual-Testing)
 
-🤖 Automated Testing (Cypress):
+🤖 [Automated Testing (Cypress)](https://github.com/kamknap/Automated-Testing)
 
-🌐 API Testing (Postman): 
+🌐 [API Testing (Postman)](https://github.com/kamknap/API-Testing) 
 
-🚀 Performance Testing (JMeter):
+🚀 [Performance Testing (JMeter)](https://github.com/kamknap/Performance-Testing)
