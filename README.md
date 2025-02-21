@@ -8,9 +8,13 @@ I enjoy ensuring software works as expected and beyond, finding edge cases, and 
 🔧 Tech Stack:
 - JavaScript
 
-# Here, you'll find my testing projects, from manual test cases to automation scripts. Let's connect and build better software together! 🚀
+### Here, you'll find my testing projects, from manual test cases to automation scripts. Let's connect and build better software together! 🚀
 📌 Test Plan (Test Documentation): 
+
 📝 Manual Testing (Test Cases, Bug Reports):
+
 🤖 Automated Testing (Cypress):
+
 🌐 API Testing (Postman): 
+
 🚀 Performance Testing (JMeter):
