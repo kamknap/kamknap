@@ -16,7 +16,7 @@ I enjoy ensuring software works as expected and beyond, finding edge cases, and 
 
 🚀 [Performance Testing (JMeter)](https://github.com/kamknap/Performance-Testing)
 
-🔧 Tech Stack:
+### 🔧 Tech Stack:
 
 - JavaScript
 - Cypress
