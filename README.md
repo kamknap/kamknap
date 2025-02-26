@@ -22,6 +22,7 @@ I enjoy ensuring software works as expected and beyond, finding edge cases, and 
 - Cypress
 - Postman
 - JMeter
+- DevTools
 - Python
 - Java
 - Katalon Studio
