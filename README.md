@@ -6,7 +6,9 @@ I enjoy ensuring software works as expected and beyond, finding edge cases, and 
 
 ### Here, you'll find my testing projects, from manual test cases to automation scripts. Let's connect and build better software together! 🚀
 
-📌 [Test Plan (Test Documentation)](https://github.com/kamknap/Test-Plan)
+☕ [Java Projects + QA Tests](https://github.com/kamknap/Java-projects)
+
+🐍 [Python Projects + QA Tests](https://github.com/kamknap/Python-projects)
 
 📝 [Manual Testing (Test Cases, Bug Reports)](https://github.com/kamknap/Manual-Testing)
 
