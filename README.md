@@ -1,8 +1,8 @@
-## Kamil Knapik — QA Analyst
+## Kamil Knapik - QA Analyst
 
 QA Analyst with a Computer Science background, currently pursuing a Master's degree while contributing to international software projects. My core is manual testing, I am steadily expanding into test automation, and I draw on hands-on software development experience throughout.
 
-I work across the testing lifecycle — designing test cases, reporting defects, automating UI and API tests, and validating integrations between systems. On the development side, I have built mobile applications, designed and deployed custom APIs, containerized services, and set up CI/CD pipelines. I also work actively with AI: applying generative AI in day-to-day workflows and building AI agents to support testing and automation.
+I work across the testing lifecycle: designing test cases, reporting defects, automating UI and API tests, and validating integrations between systems. On the development side, I have built mobile applications, designed and deployed custom APIs, containerized services, and set up CI/CD pipelines. I also work actively with AI: applying generative AI in day-to-day workflows and building AI agents to support testing and automation.
 
 ### What I work on
 
