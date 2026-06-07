@@ -6,15 +6,15 @@ I work across the testing lifecycle: designing test cases, reporting defects, au
 
 ### What I work on
 
-- **Quality Assurance** — manual testing, test design, defect reporting, and a growing automation practice
-- **Test automation** — UI, API, and performance testing
-- **Software development** — mobile apps, custom APIs, and system integrations
-- **DevOps practices** — containerization and CI/CD pipelines
-- **AI & Machine Learning** — generative AI, prompt engineering, AI agent development, and building neural networks and machine learning models
+- **Quality Assurance** - manual testing, test design, defect reporting, and a growing automation practice
+- **Test automation** - UI, API, and performance testing
+- **Software development** - mobile apps, custom APIs, and system integrations
+- **DevOps practices** - containerization and CI/CD pipelines
+- **AI & Machine Learning** - generative AI, prompt engineering, AI agent development, and building neural networks and machine learning models
 
 ### Selected projects
 
-- [FitHub](https://github.com/kamknap/FitHub.git) - Mobile fitness app; Kotlin | REST API | Azure | Containers | JavaScript
+- [FitHub](https://github.com/kamknap/FitHub.git) - Mobile fitness app; Kotlin | REST API | Azure | JavaScript
 
 ### Tech stack
 
@@ -38,7 +38,7 @@ I work across the testing lifecycle: designing test cases, reporting defects, au
 **DevOps & CI/CD**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
