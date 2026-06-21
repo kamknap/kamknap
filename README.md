@@ -15,6 +15,7 @@ I work across the testing lifecycle: designing test cases, reporting defects, au
 ### Selected projects
 
 - [FitHub](https://github.com/kamknap/FitHub.git) - Mobile fitness app; Kotlin | REST API | Azure | JavaScript
+- [Stock Dashboard](https://github.com/kamknap/stock-dashboard-edu.git) - AI-powered market analysis dashboard (educational); Python | FastAPI | React | Gemini AI | Firebase | GitHub Actions
 
 ### Tech stack
 
